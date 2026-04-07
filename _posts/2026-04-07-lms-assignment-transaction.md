@@ -1,9 +1,10 @@
+---
 layout: post
 title: "LMS 과제 삭제 기능에서 트랜잭션으로 데이터 정합성 문제 해결하기"
 date: 2026-04-07 15:00:00 +0900
 categories: [Backend, Project]
 tags: [백엔드, 트랜잭션, 데이터정합성, LMS, Java, JDBC]
-LMS 과제 삭제 기능에서 트랜잭션으로 데이터 정합성 문제 해결하기
+---
 
 1. 문제 상황
 
