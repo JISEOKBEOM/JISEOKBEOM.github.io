@@ -1,5 +1,10 @@
-
-# 모듈 4 회고: 결제가 되는 기능에서 운영 가능한 결제 시스템으로
+---
+layout: post
+title: "모듈 4 회고: 운영 가능한 결제 시스템으로 확장하기"
+date: 2026-06-20 11:00:00 +0900
+categories: [Backend, Payment, Monitoring]
+tags: ["Spring Boot", "Toss Payments", "Idempotency", "Grafana", "Prometheus", "k6", "Clean Architecture"]
+---
 
 모듈 4에서는 모듈 3에서 구현한 장바구니, 결제, 크레딧 기능을 기반으로 결제 파트를 크게 확장했다.  
 이번 목표는 단순히 결제가 되는 기능이 아니라, 실제 서비스에서 운영할 수 있는 결제 구조에 가깝게 만드는 것이었다.
