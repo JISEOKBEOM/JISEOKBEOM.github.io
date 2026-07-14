@@ -6,8 +6,6 @@ categories: [Backend, Project, Retrospective]
 tags: [Module2, StudyingValley, LMS, Backend, API, Architecture]
 ---
 
-# 모듈 2 회고: 스터딩 밸리에서 2D 게임형 LMS를 설계하며 배운 것
-
 모듈 2에서는 **StudyingValley**라는 초등학교 교육용 몰입형 LMS 프로젝트를 진행했다.
 
 스터딩 밸리는 기존 LMS처럼 강의 목록과 버튼을 중심으로 학습을 소비하는 서비스가 아니라, 학생들이 학습을 하나의 탐험처럼 경험할 수 있도록 만든 **2D 게임형 학습 플랫폼**이다.
