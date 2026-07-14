@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "모듈 3 회고: 장바구니, 결제, 크레딧 기능을 만들며 배운 백엔드 설계"
+title: '모듈 3 회고: 장바구니, 결제, 크레딧 기능을 만들며 배운 백엔드 설계'
 date: 2026-05-20 11:00:00 +0900
 categories: [Backend, Payment, LMS]
 tags: [Spring Boot, Clean Architecture, Payment, Cart, Credit, LMS]
