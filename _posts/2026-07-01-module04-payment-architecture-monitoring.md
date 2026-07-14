@@ -1,5 +1,6 @@
+---
 layout: post
-title: "모듈 4 회고: 운영 가능한 결제 시스템으로 확장하기"
+title: '모듈 4 회고: 운영 가능한 결제 시스템으로 확장하기'
 date: 2026-06-20 11:00:00 +0900
 categories: [Backend, Payment, Monitoring]
 tags: [Spring Boot, Toss Payments, Idempotency, Grafana, Prometheus, k6, Clean Architecture]
