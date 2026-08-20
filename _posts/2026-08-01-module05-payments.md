@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "모듈 5 회고: 실제 상용 서비스를 고려한 결제 시스템 고도화"
-date: 2026-07-10 11:00:00 +0900
+date: 2026-08-01 11:00:00 +090
 categories: [Backend, Payment, Performance]
 tags: ["Spring Boot", "Payment", "Transaction", "Pessimistic Lock", "Idempotency", "Pagination", "Keyset", "Bulk Query", "Monitoring", "Clean Architecture"]
 ---
